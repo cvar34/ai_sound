@@ -1,0 +1,13 @@
+[project]
+name = "ai-sound"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "googletrans>=4.0.2",
+    "numpy>=2.4.6",
+    "scipy>=1.17.1",
+    "sounddevice>=0.5.5",
+    "speechrecognition>=3.17.0",
+]
